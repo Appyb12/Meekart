@@ -1,0 +1,28 @@
+*{
+    margin: 0ch;
+    padding: 0ch;
+    background-color: antiquewhite;
+}
+
+
+
+div{
+    padding: 1vh;
+    display: flex;
+    justify-content: center; 
+   
+}
+
+
+header{
+    height: 1vh;
+   
+}
+
+button{
+    padding: 2.1vh;
+    background: darksalmon;
+    border: 0.32vh solid darkviolet;
+    cursor: -moz-grab;
+}
+
